@@ -1,7 +1,5 @@
 # Python_ApI_Challenge
 
-# Python-api-Challenge
-
 ## Weather and Vacation Analysis
 
 In This project we analyze weather data of over 500 cities . Find  the relationship between weather variables and the latitude of the cities. Analyzed data to plan future vacations by selecting ideal weather conditions for our trip.  And after all inding hotels in the cities that meet our conditions.
